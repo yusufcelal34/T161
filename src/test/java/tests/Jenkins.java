@@ -81,5 +81,10 @@ public class Jenkins {
     void Test15() {
         System.out.println("deneme");
     }
+
+    @Test
+    void Test16() {
+        System.out.println("deneme");
+    }
 }
 
