@@ -84,7 +84,7 @@ public class Jenkins {
 
     @Test
     void Test16() {
-        System.out.println("deneme");
+        System.out.println("yeni islem");
     }
 }
 
